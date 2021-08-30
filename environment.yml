@@ -1,0 +1,15 @@
+name: py6670
+
+channels:
+  - conda-forge
+
+dependencies:
+  - cartopy
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - scipy
